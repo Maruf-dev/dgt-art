@@ -1,0 +1,392 @@
+Uri: https://fonts.googleapis.com/css2?family=Mukta+Mahee:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXN3IOIi0hcP8iVU67hA9M5choH.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXN3IOIi0hcP8iVU67hA9M5choH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXN3IOIi0hcP8iVU67hA9MVdRoH.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXN3IOIi0hcP8iVU67hA9MVdRoH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXN3IOIi0hcP8iVU67hA9NhcxoH.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXN3IOIi0hcP8iVU67hA9NhcxoH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXN3IOIi0hcP8iVU67hA9NtdxoH.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXN3IOIi0hcP8iVU67hA9NtdxoH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXN3IOIi0hcP8iVU67hA9NxdBoH.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXN3IOIi0hcP8iVU67hA9NxdBoH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muktamahee/v16/XRXQ3IOIi0hcP8iVU67hA-vN.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\muktamahee\v16\XRXQ3IOIi0hcP8iVU67hA-vN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://photogam.kwst.net/dark/about.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\about.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/blog-single.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\blog-single.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/blog.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\blog.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/contacts.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\contacts.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/css/map.css
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\css\map.css
+Content Type: text/css
+
+Uri: https://photogam.kwst.net/dark/css/plugins.css
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\css\plugins.css
+Content Type: text/css
+
+Uri: https://photogam.kwst.net/dark/css/style.css
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\css\style.css
+Content Type: text/css
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-light-300.ttf
+Content Type: application/octet-stream
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://photogam.kwst.net/dark/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://photogam.kwst.net/dark/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://photogam.kwst.net/dark/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://photogam.kwst.net/dark/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://photogam.kwst.net/dark/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://photogam.kwst.net/dark/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/bg/12.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\bg\12.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/bg/2.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\bg\2.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/bg/3.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\bg\3.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/bg/9.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\bg\9.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/clients/1.png
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\clients\1.png
+Content Type: image/png
+
+Uri: https://photogam.kwst.net/dark/images/clients/2.png
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\clients\2.png
+Content Type: image/png
+
+Uri: https://photogam.kwst.net/dark/images/clients/3.png
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\clients\3.png
+Content Type: image/png
+
+Uri: https://photogam.kwst.net/dark/images/clients/4.png
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\clients\4.png
+Content Type: image/png
+
+Uri: https://photogam.kwst.net/dark/images/favicon.ico
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://photogam.kwst.net/dark/images/folio/1.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/10.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/11.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/12.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/13.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\13.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/14.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\14.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/15.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\15.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/16.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\16.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/17.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\17.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/18.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\18.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/19.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\19.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/2.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/20.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\20.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/22.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\22.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/23.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\23.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/3.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/4.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/5.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/6.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/7.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\7.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/8.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\8.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/folio/9.jpg
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\folio\9.jpg
+Content Type: image/jpeg
+
+Uri: https://photogam.kwst.net/dark/images/loading.gif
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\loading.gif
+Content Type: image/gif
+
+Uri: https://photogam.kwst.net/dark/images/logo.png
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\images\logo.png
+Content Type: image/png
+
+Uri: https://photogam.kwst.net/dark/index.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\index.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/index2.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\index2.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/index3.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\index3.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/index4.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\index4.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/index5.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\index5.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://photogam.kwst.net/dark/js/map.js
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\js\map.js
+Content Type: application/javascript
+
+Uri: https://photogam.kwst.net/dark/js/plugins.js
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://photogam.kwst.net/dark/js/scripts.js
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://photogam.kwst.net/dark/portfolio-single.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio-single.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio-single2.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio-single2.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio-single3.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio-single3.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio-single4.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio-single4.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio2.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio2.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/portfolio3.html
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\portfolio3.html
+Content Type: text/html
+
+Uri: https://photogam.kwst.net/dark/video/2.mp4
+File Name: C:\Downloaded Web Sites\photogam.kwst.net\dark\video\2.mp4
+Content Type: video/mp4
+
